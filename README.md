@@ -82,7 +82,7 @@
 
   Live Url: https://arbinazari.github.io/react-portfolio/
   
-  [Github](https://github.com/ArbiNazari/React)
+  [Github](https://github.com/ArbiNazari/react-portfolio)
 
 
   ## [Snapshot](#table-of-contents)
